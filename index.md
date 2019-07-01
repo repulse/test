@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yo les bouseux
 
 You can use the [editor on GitHub](https://github.com/repulse/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
